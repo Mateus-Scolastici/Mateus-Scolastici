@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/Mateus-Scolastici/Mateus-Scolastici/blob/output/github-contribution-grid-snake.svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 # Mateus here!
@@ -26,4 +27,3 @@ I am a student on the Systems Analysis and Development course at FATEC and a gra
 #
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mateus-Scolastici&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Snake animation](https://github.com/Mateus-Scolastici/Mateus-Scolastici/blob/output/github-contribution-grid-snake.svg)
