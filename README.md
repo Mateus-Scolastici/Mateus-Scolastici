@@ -1,11 +1,11 @@
-![Snake animation](https://github.com/Mateus-Scolastici/Mateus-Scolastici/blob/output/github-contribution-grid-snake.svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 # Mateus here!
 ## About 
 I am a student on the Systems Analysis and Development course at FATEC and a graduate in Production Engineering from UNICAMP. Since the beginning of my degree, when I was 19 years old, I discovered my interest in technology, specifically software development and the scope that this can take in the evolution of humanity. Since then, I have dedicated myself completely to software development studies, going through all stages, from project scope to system implementation. My focus is on the C# language, using the .NET framework, in which I have knowledge in ASP.NET Core, MVC, WebAPI, REST API, Entity Framework, .NET Core, WPF, Windows Forms, Dependency Injection, TDD/DDD and Orientation Objects. I have knowledge of relational databases SQL Server, Oracle, MySQL and PostgreSQL, and non-relational databases MongoDB and MariaDB. I have brief knowledge of microservices and handling containers.
 
-## Tecnologies
+## Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-239120?style=for-the-badge&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
@@ -27,3 +27,4 @@ I am a student on the Systems Analysis and Development course at FATEC and a gra
 #
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mateus-Scolastici&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+![Snake animation](https://github.com/Mateus-Scolastici/Mateus-Scolastici/blob/output/github-contribution-grid-snake.svg)
