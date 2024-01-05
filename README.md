@@ -7,7 +7,7 @@ I am a student on the Systems Analysis and Development course at FATEC and a gra
 
 ## Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-239120?style=for-the-badge&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-239120?style=for-the-badge&logoColor=9370DB)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
