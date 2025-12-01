@@ -26,8 +26,6 @@ I am a student on the Systems Analysis and Development course at FATEC and a gra
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateusfontascp2704@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-scolastici-b28629212/)
 
-![Snake animation](https://raw.githubusercontent.com/Mateus-Scolastici/Mateus-Scolastici/output/snake.svg)
-
 
 
 
