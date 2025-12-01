@@ -6,6 +6,7 @@
 I am a student on the Systems Analysis and Development course at FATEC and a graduate in Production Engineering from UNICAMP. Since the beginning of my degree, when I was 19 years old, I discovered my interest in technology, specifically software development and the scope that this can take in the evolution of humanity. Since then, I have dedicated myself completely to software development studies, going through all stages, from project scope to system implementation. My focus is on the C# language, using the .NET framework, in which I have knowledge in ASP.NET Core, MVC, WebAPI, REST API, Entity Framework, .NET Core, WPF, Windows Forms, Dependency Injection, TDD/DDD and Orientation Objects. I have knowledge of relational databases SQL Server, Oracle, MySQL and PostgreSQL, and non-relational databases MongoDB and MariaDB. I have brief knowledge of microservices and handling containers.
 
 ## Technologies
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-239120?style=for-the-badge&logoColor=9370DB)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
