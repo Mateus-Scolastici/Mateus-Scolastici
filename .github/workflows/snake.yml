@@ -2,21 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-      - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # roda todo dia meia-noite
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@master
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Mateus-Scolastici
           outputs: dist/snake.svg
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist/snake.svg
 
       - name: Upload to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
