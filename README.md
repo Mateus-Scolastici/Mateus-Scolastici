@@ -27,7 +27,8 @@ I am a student on the Systems Analysis and Development course at FATEC and a gra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-scolastici-b28629212/)
 
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Scolastici&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats-mateus-scolastici.vercel.app/api/top-langs/?username=Mateus-Scolastici&theme=tokyonight&layout=compact)
+
 
 
 
