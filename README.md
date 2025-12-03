@@ -3,7 +3,15 @@
 
 # Mateus here!
 ## About 
-I am a student on the Systems Analysis and Development course at FATEC and a graduate in Production Engineering from UNICAMP. Since the beginning of my degree, when I was 19 years old, I discovered my interest in technology, specifically software development and the scope that this can take in the evolution of humanity. Since then, I have dedicated myself completely to software development studies, going through all stages, from project scope to system implementation. My focus is on the C# language, using the .NET framework, in which I have knowledge in ASP.NET Core, MVC, WebAPI, REST API, Entity Framework, .NET Core, WPF, Windows Forms, Dependency Injection, TDD/DDD and Orientation Objects. I have knowledge of relational databases SQL Server, Oracle, MySQL and PostgreSQL, and non-relational databases MongoDB and MariaDB. I have brief knowledge of microservices and handling containers.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela FATEC e formado em Engenharia de Produção pela UNICAMP. Desde o início da minha trajetória acadêmica, desenvolvi um forte interesse por tecnologia e pelo impacto que o desenvolvimento de software gera na evolução dos processos e das organizações.
+
+Atualmente, estou em transição para a área de desenvolvimento, consolidando uma base técnica sólida e construindo projetos reais voltados para automação e melhoria de processos. Tenho experiência prática em Python, SQL, VBA e desenvolvimento web, aplicando essas tecnologias em soluções de produtividade, sistemas internos e automações inteligentes.
+
+Também estou evoluindo no ecossistema .NET com C#, estudando ASP.NET Core, APIs REST, Entity Framework e conceitos essenciais como orientação a objetos, boas práticas, injeção de dependência e testes. Meu foco é dominar as tecnologias de backend e, paralelamente, desenvolver projetos completos para reforçar minha capacidade de entregar valor no ambiente corporativo.
+
+Possuo experiência com bancos de dados relacionais (SQL Server, MySQL, PostgreSQL) e com modelagem, análise de performance e construção de queries otimizadas. Também tenho bagagem relevante em métodos e processos adquirida na engenharia, o que me ajuda a estruturar soluções de software com visão de negócio, eficiência e escalabilidade.
+
+Meu objetivo é crescer como Desenvolvedor Backend e aplicar tecnologia para resolver problemas reais, conectando desenvolvimento de sistemas, dados e automação inteligente.
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
